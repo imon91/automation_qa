@@ -1,0 +1,1 @@
+./gradlew automationWEBTest -DType=FormFillup -DBrowser=chrome
