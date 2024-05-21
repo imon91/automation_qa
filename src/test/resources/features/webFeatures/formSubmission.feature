@@ -8,7 +8,7 @@ Feature: Submit Form
 
     Examples:
       | name | email | phone | postCode |describe|   priceRange | lookingToBuy | contactMethod | selectPreApproval | checkbox|    message |
-      |John Doe|john.doe@example.com|123456789|	2000|First Home Buyers|	$500k-$750k|1-3 months|	Phone Call|	Yes    |inspection|	Tasnim automation 1|
+      |John Doe|john.doe@example.com|423456734|	2000|First Home Buyers|	$500k-$750k|1-3 months|	Phone Call|	Yes    |inspection|	Tasnim automation 1|
       | Alice Smith     | alice.smith@example.com    | 423456781  | 2001 | Downsizers      | $750k-$1m    | 3-6 months   | Email          | No         | floorplans      | Tasnim automation 2 |
       | Michael Johnson | michael.johnson@example.com| 423456782  | 2002 | Young Family    | $1m-$1.5m    | 6-12 months  | SMS            | Yes        | priceInfo       | Tasnim automation 3 |
       | Emma Wilson     | emma.wilson@example.com    | 423456783  | 2003 | Investor        | $1.5m-$2m    | 12-18 months | Phone Call     | No         | brochure        | Tasnim automation 4 |
